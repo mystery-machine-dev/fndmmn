@@ -1,12 +1,7 @@
 {
-  "osbir":[
-    {
-      "code": "31",
-      "msg": "Koduk mu?",
-      "owner_url": "cinresmidevletsitesi.blogcu.com",
-      "owner_email": "hacker.okan@yahoo.com"
-  }
-    
-  ]
-  
+  "code": "31",
+  "msg": "Koduk mu?",
+  "owner_url": "cinresmidevletsitesi.blogcu.com",
+  "owner_email": "hacker.okan@yahoo.com",
+  "osbir":[]
 }
